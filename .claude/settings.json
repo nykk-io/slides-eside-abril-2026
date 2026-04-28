@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/jabi/workspace/langchain_curso_bed/slides-langchain.js/**)",
+      "WebSearch"
+    ]
+  }
+}
